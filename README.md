@@ -1,8 +1,8 @@
 # Hi there, I'm Sohaib Omar 👋
 
-### 🚀 Data Engineer | Mechanical Engineering Background | ITI Graduate
+### 🚀 Data Engineer And Analyst | Mechanical Engineering Background | ITI Graduate
 
-I am a Junior Data Engineer with an intensive technical foundation from the **Information Technology Institute (ITI)**. I specialize in architecting scalable data pipelines and real-time streaming solutions. My engineering background drives my passion for system optimization, reliability, and solving complex data challenges.
+I am a Junior Data Engineer with an intensive technical foundation from the **Information Technology Institute (ITI)** and currently enrolled in Next Academy for **Data Analyst & Power BI Modeling** as intern. I specialize in architecting scalable data pipelines and real-time streaming solutions. My engineering background drives my passion for system optimization, reliability, and solving complex data challenges.
 
 ---
 
